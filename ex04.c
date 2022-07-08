@@ -26,6 +26,10 @@ int main(){
 
     printf("Head : %d Tail : %d\n",h,t);
 
-    
+if(h>t){
+
+        printf("you won\n");
+    }else 
+        printf("you lose\n");    
 
 }

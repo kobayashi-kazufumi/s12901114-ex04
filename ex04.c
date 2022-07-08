@@ -32,8 +32,8 @@ int main(){
 
 if(h>t){
 
-        printf("you won\n");
+        printf("%s won\n",name);
     }else 
-        printf("you lose\n");    
+        printf("%s lose\n",name);    
 
 }
